@@ -38,7 +38,7 @@ In addition, the company is also attempting to identify employees who are eligib
         GROUP BY title
         ORDER BY title;
 
-        The result is as shown in [Mentorship results.](https://github.com/ParnaKundu/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
+        The result is as shown in ![Mentorship results.](mentorship.png)
 
     2. The following query can be written to understand how many employees are retiring from each department
 
@@ -51,7 +51,7 @@ In addition, the company is also attempting to identify employees who are eligib
         GROUP BY d.dept_name, de.to_date
         HAVING de.to_date = '9999-01-01';
 
-        The result is as shown in [Department count.](https://github.com/ParnaKundu/Pewlett-Hackard-Analysis/blob/main/department.png)
+        The result is as shown in ![Department count.](department.png)
 
 
 
