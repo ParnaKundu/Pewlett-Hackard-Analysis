@@ -10,7 +10,7 @@ In addition, the company is also attempting to identify employees who are eligib
 
 ## Results -- Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-- The analysis shows that there will be over 72,000 employees retiring. The breakup based on the departments is [Retiring roles.](https://github.com/ParnaKundu/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
+- The analysis shows that there will be over 72,000 employees retiring. The breakup based on the departments is ![Retiring roles.](Pewlett-Hackard-Analysis/retiring_titles.png)
 
 - The analysis also reveals that only 2 'Managers' are retiring and the majority of the retiring employees are 'Senior Engineer' and 'Senior Staff'. 
 
